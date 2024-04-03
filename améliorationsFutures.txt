@@ -1,0 +1,7 @@
+Créer une marge plus importante à droite pour donner un effet ancienne télévision
+
+Modifier le code pour qu'il ne soit plus en "main" mais en "section"
+    Ajouter des "div" dans la "section" de droite afin de donner la sensation des boutons de la télévision
+
+Ne pas oulier les traits pour le haut-parleur
+
