@@ -16,6 +16,7 @@ main{
     margin: 2vh 5vw ;
     background-color: #c19b87;
     border-radius: 100px;
+    color: #27081b;
 }
 
 #nombre{
@@ -42,12 +43,12 @@ button:hover{
     width: 100%;
 }
 
-#ajouter:hover{
+#ajouter:hover, #soustraire:hover, #RAZ{
     color: #F2F2F2;
     background-color:#27081b ;
 }
 
-#soustraire:hover{
-    color: #F2F2F2;
-    background-color: #8a0819;
+#RAZ:hover{
+    color: #27081b;
+    background-color: #F2F2F2 ;
 }
