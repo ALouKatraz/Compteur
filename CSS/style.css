@@ -13,7 +13,7 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 2vh 5vw ;
+    margin: 2vh 20vw 2vh 10vw ;
     background-color: #c19b87;
     border-radius: 100px;
     color: #27081b;
